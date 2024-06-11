@@ -1,0 +1,7 @@
+{
+  "name": "React example plugin",
+  "description": "Example plugin with react",
+  "code": "/plugin.js",
+  "icon": "/icon.png",
+  "permissions": ["page:read", "file:read", "selection:read"]
+}
