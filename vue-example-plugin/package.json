@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@penpot/plugin-styles": "^0.6.0",
-    "@penpot/plugin-types": "^0.6.0",
+    "@penpot/plugin-types": "^0.8.0",
     "vue": "^3.4.21",
     "vue-signals": "^0.3.1"
   },
