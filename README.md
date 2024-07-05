@@ -10,9 +10,8 @@ This collection of plugins is designed to showcase how to create plugins using p
 
 _\*: version we used in the examples._
 
-- For the full documentation go to: [Technical guide > Plugins](https://help.penpot.app/technical-guide/plugins/).
+- For the full documentation go to: [Technical guide > Plugins](https://penpot-docs-plugins.pages.dev/technical-guide/plugins/).
 - For the starter vanilla template go to [Penpot Plugin Starter Template](https://github.com/penpot/penpot-plugin-starter-template).
-- For the nx monorepo documentation go to [Creating a Plugin](https://github.com/penpot/penpot-plugins/blob/main/docs/create-plugin.md) or [Creating a Plugin (angular)](https://github.com/penpot/penpot-plugins/blob/main/docs/create-angular-plugin.md).
 
 ## Start examples
 
