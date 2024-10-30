@@ -3,5 +3,5 @@
   "description": "Example plugin with angular",
   "code": "/plugin.js",
   "icon": "/icon.png",
-  "permissions": ["page:read", "file:read", "selection:read"]
+  "permissions": ["page:read", "content:read", "file:read", "selection:read"]
 }
