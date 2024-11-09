@@ -1,0 +1,7 @@
+{
+  "name": "Solid example plugin",
+  "description": "Example plugin with Solid",
+  "code": "/plugin.js",
+  "icon": "/icon.png",
+  "permissions": ["page:read", "content:read", "file:read", "selection:read"]
+}

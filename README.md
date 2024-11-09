@@ -7,6 +7,7 @@ This collection of plugins is designed to showcase how to create plugins using p
 | Angular   | 18.0.0    |
 | React     | 18.2.0    |
 | Vue       | 3.4.21    |
+| Solid     | 1.9.3     |
 
 _\*: version we used in the examples._
 
@@ -46,3 +47,13 @@ npm run dev
 ```
 
 Plugin url: http://localhost:4403/manifest.json
+
+### Solid
+
+```bash
+cd vue-example-plugin
+npm install
+npm run dev
+```
+
+Plugin url: http://localhost:4404/manifest.json
