@@ -56,4 +56,4 @@ npm install
 npm run dev
 ```
 
-Plugin url: http://localhost:4404/manifest.json
+Plugin url: http://localhost:4405/manifest.json

@@ -22,6 +22,6 @@ export default defineConfig({
     },
   },
   preview: {
-    port: 4404,
+    port: 4405,
   },
 });
