@@ -1,0 +1,42 @@
+@import "./penpot.css";
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  min-height: 100vh;
+}
+
+main[data-theme="light"] {
+  --background-color: transparent;
+  --text-color: #242424;
+}
+main[data-theme="dark"] {
+  --background-color: #242424;
+  --text-color: rgba(255, 255, 255, 0.87);
+}
+main {
+  padding: 0.8rem 1rem;
+  color-scheme: light dark;
+  background-color: var(--background-color);
+  color: var(--text-color);
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+button {
+  padding: 0.4rem 0.8rem;
+  border-radius: 0.8rem;
+  border: none;
+}
