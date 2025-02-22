@@ -6,7 +6,7 @@ This collection of plugins is designed to showcase how to create plugins using p
 | --------- | --------- |
 | Angular   | 18.0.0    |
 | React     | 18.2.0    |
-| Vue       | 3.4.21    |
+| Vue       | 3.5.13    |
 | Svelte    | 5.1.3     |
 
 _\*: version we used in the examples._
