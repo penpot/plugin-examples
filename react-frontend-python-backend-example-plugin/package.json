@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@penpot/plugin-styles": "^1.1.0",
+    "@penpot/plugin-types": "^1.1.0"
+  }
+}
