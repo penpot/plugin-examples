@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@penpot/plugin-styles": "^1.1.0",
+    "@penpot/plugin-types": "^1.1.0",
+    "@pyramid-embed/embed-react": "^4.0.2"
+  }
+}

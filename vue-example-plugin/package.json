@@ -11,9 +11,9 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
-    "@penpot/plugin-styles": "^0.8.0",
-    "@penpot/plugin-types": "^1.0.0",
-    "vue": "^3.4.21"
+    "@penpot/plugin-styles": "^1.1.0",
+    "@penpot/plugin-types": "^1.1.0",
+    "vue": "^3.5.13"
   },
   "devDependencies": {
     "@rushstack/eslint-patch": "^1.8.0",
