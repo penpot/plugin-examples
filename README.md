@@ -1,5 +1,7 @@
 # Plugin examples
 
+<a href="https://angular.dev/"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/></a> <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a> <a href="https://vuejs.org/"><img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/></a> <a href="https://svelte.dev/"><img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00"/></a>
+
 This collection of plugins is designed to showcase how to create plugins using popular frontend frameworks.
 
 | Framework | Version\* |
