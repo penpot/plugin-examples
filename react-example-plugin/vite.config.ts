@@ -17,5 +17,8 @@ export default defineConfig({
   },
   preview: {
     port: 4402,
+    headers: {
+      'Access-Control-Allow-Origin': '*',
+    },
   },
 });
