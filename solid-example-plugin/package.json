@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@penpot/plugin-styles": "^1.1.0",
+    "@penpot/plugin-types": "^1.1.0",
+    "solid-js": "^1.9.5"
+  }
+}
